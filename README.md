@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-1%20day-green"/>
+  <img src="https://img.shields.io/badge/Progress-6%20day-green"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
@@ -16,3 +16,4 @@
 ## 📅 June 2025
 
 - ✅ [25 June - Check if Frequencies Can Be Equal](2025/June/25_CheckIfFreqEqual.cpp)
+- ✅ [26 June - Game With String](2025/June/26_GameWithString.cpp)
