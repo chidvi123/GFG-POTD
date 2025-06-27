@@ -11,6 +11,15 @@
 // ?? Asked In: Amazon, Google, Microsoft  
 
 
+
+ There is a standard numeric keypad on a mobile phone.
+ You can press the current button or any button that 
+ is directly above, below, to the left, or to the right 
+ of it. For example, if you press 5, then pressing 2, 4, 6, or 8 is allowed. 
+ However, diagonal movements and 
+ pressing the bottom row corner buttons (* and #) are not allowed.
+
+
 class Solution {
   public:
     int getCount(int n) {
