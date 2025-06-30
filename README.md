@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-9%20day-green"/>
+  <img src="https://img.shields.io/badge/Progress-10%20day-green"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
@@ -20,5 +20,6 @@
 - ✅ [27 June - Mobile Numeric Keypad](2025/June/27_MobileNumericKeypad.cpp)
 - ✅ [28 June - Counting elements in two arrays](2025/June/28_CountingElementsInTwoArrays.cpp)
 - ✅ [29 June - Split Array Largest Sum](2025/June/29_SplitArrayLargestSum.cpp)
+- ✅ [30 June - MaxMinHeight](2025/June/30_MaxMinHeight.cpp)
 
 
