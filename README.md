@@ -22,4 +22,3 @@
 - ✅ [29 June - Split Array Largest Sum](2025/June/29_SplitArrayLargestSum.cpp)
 - ✅ [30 June - MaxMinHeight](2025/June/30_MaxMinHeight.cpp)
 
-
