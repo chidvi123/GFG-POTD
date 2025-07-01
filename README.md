@@ -24,6 +24,6 @@
 
 ---
 
-## 📅 July 2025
+## 🗓️ July 2025
 
-- ✅ [1 July - Substrings of len k with k-1 distinct elements](2025/July/1_SubstringsOfLengthKwithK-1DistinctElements.cpp)
+- ✅ [1 July - Substrings of len k with k-1 distinct elements](2025/july/1_SubstringsOfLengthKwithK-1DistinctElements.cpp)
