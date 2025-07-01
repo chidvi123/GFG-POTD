@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-10%20day-green"/>
+  <img src="https://img.shields.io/badge/Progress-11%20day-green"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
@@ -22,3 +22,8 @@
 - ✅ [29 June - Split Array Largest Sum](2025/June/29_SplitArrayLargestSum.cpp)
 - ✅ [30 June - MaxMinHeight](2025/June/30_MaxMinHeight.cpp)
 
+---
+
+## 📅 July 2025
+
+- ✅ [1 July - Substrings of len k with k-1 distinct elements](2025/July/1_SubstringsOfLengthKwithK-1DistinctElements.cpp)
