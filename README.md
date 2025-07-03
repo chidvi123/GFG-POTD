@@ -27,3 +27,4 @@
 ## 🗓️ July 2025
 
 - ✅ [1 July - Substrings of len k with k-1 distinct elements](2025/july/1_SubstringsOfLengthKwithK-1DistinctElements.cpp)
+- ✅ [2 July - Longest subarray with Atmost two distinct integers](2025/july/2_LongestsubarraywithAtmosttwodistincintegers.cpp)
