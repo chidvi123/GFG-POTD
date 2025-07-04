@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-13%20day-green"/>
+  <img src="https://img.shields.io/badge/Progress-14%20day-green"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
@@ -30,3 +30,5 @@
 - ✅ [2 July - Longest subarray with Atmost two distinct integers](2025/july/2_LongestsubarraywithAtmosttwodistincintegers.cpp)
 
 - ✅ [3  July - Longest Substring With K Uniques](2025/july/3_LongestSubstringWithKUniques.cpp)
+
+- ✅ [4  July - Subarrays With At Most K Distinct Integers](2025/july/4_SubarraysWithAtmostKDistinctIntegers.cpp)
