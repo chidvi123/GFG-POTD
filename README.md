@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-Aiming%20for%20100%25-brightgreen"/>
+  <img src="https://img.shields.io/badge/Progress-16%20/%2016%20Days-brightgreen"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
