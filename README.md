@@ -18,7 +18,10 @@
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
-- ✅ [7 July - NextGraterElementInCircularArray ](2025/july/7_NextGreaterElementInCircularArray.cpp)
+
+- ✅ [9 July -   ](2025/july/8_NextElementWithGreaterFrequency.cpp)
+- ✅ [8 July -  Next Element With Greater Frequency ](2025/july/8_NextElementWithGreaterFrequency.cpp)
+- ✅ [7 July - Next Greater Element In Circular Array ](2025/july/7_NextGreaterElementInCircularArray.cpp)
 - ✅ [6 July - Maximum sum combinations ](2025/july/6_MaximumSumCombination.cpp)
 - ✅ [5 July - Max Score With Subarray Mins](2025/july/5_MaxScoreFromSubarrayMins.cpp)
 - ✅ [4 July - Subarrays With At Most K Distinct Integers](2025/july/4_SubarraysWithAtmostKDistinctIntegers.cpp)
