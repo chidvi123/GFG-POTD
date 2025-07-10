@@ -7,16 +7,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-16%20Days-brightgreen"/>
+  <img src="https://img.shields.io/badge/Progress-19%20Days-brightgreen"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
 ---
 
 
+
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
+- ✅ [7 July - NextGraterElementInCircularArray ](2025/july/7_NextGreaterElementInCircularArray.cpp)
 - ✅ [6 July - Maximum sum combinations ](2025/july/6_MaximumSumCombination.cpp)
 - ✅ [5 July - Max Score With Subarray Mins](2025/july/5_MaxScoreFromSubarrayMins.cpp)
 - ✅ [4 July - Subarrays With At Most K Distinct Integers](2025/july/4_SubarraysWithAtmostKDistinctIntegers.cpp)
