@@ -18,7 +18,8 @@
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
-
+- ✅ [11 July - Sum Of Subarray Minimum  ](2025/july/9_SumOfSubarrayMinimum.cpp)
+- ✅ [10 July - Find The  Largest String   ](2025/july/10_FindTheLargestString.cpp)
 - ✅ [9 July - Sum Of Subarray Minimum  ](2025/july/9_SumOfSubarrayMinimum.cpp)
 - ✅ [8 July -  Next Element With Greater Frequency ](2025/july/8_NextElementWithGreaterFrequency.cpp)
 - ✅ [7 July - Next Greater Element In Circular Array ](2025/july/7_NextGreaterElementInCircularArray.cpp)
