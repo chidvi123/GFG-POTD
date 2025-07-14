@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg"/>
-  <img src="https://img.shields.io/badge/Progress-21%20Days-brightgreen"/>
+  <img src="https://img.shields.io/badge/Progress-24%20Days-brightgreen"/>
   <img src="https://img.shields.io/github/last-commit/chidvi123/GFG-POTD"/>
 </p>
 
@@ -18,6 +18,8 @@
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
+
+- ✅ [14 July - Cutting Binary String   ](2025/july/14_CuttingBinaryString.cpp)
 - ✅ [11 July - Trails Of One   ](2025/july/11_TrailOfOnes.cpp)
 - ✅ [10 July - Find The  Largest String   ](2025/july/10_FindTheLargestString.cpp)
 - ✅ [9 July - Sum Of Subarray Minimum  ](2025/july/9_SumOfSubarrayMinimum.cpp)
