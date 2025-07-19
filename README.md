@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Daily Coding Tracker</h1>
+<h1 align="center">🚀 GFG-POTD Tracker</h1>
 
 <p align="center">
-  💡 Practicing daily problems from <strong>GeeksforGeeks</strong> and <strong>LeetCode</strong><br/>
-  📅 Organized by date • 🔗 Direct links to each C++ solution
+  💡 Daily C++ Solutions for <strong>GeeksforGeeks Problem of the Day</strong><br/>
+  📅 Organized by year/month • 📁 Clean folder structure • 🔗 Clickable links to code
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-## 🟩 GFG – Problem of the Day
 
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
@@ -33,6 +31,8 @@
 
 </details>
 
+---
+
 <details>
 <summary>📅 <strong>June 2025</strong></summary>
 
@@ -44,11 +44,3 @@
 - ✅ [25 June - Check if Frequencies Can Be Equal](2025/June/25_CheckIfFreqEqual.cpp)
 
 </details>
-
----
-
-## 🟨 LeetCode – Daily/Practice (coming soon)
-
-<!-- Add LeetCode entries here like:
-- ✅ [19 July - Vowel Permutation Count](2025/july/19/LeetCode_VowelPermutationCount.cpp)
--->
