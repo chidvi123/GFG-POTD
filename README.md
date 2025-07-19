@@ -18,7 +18,10 @@
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
-
+-  ✅ [19 July - Count Unique Vowel Strings   ](2025/july/19_CountUniqueVowelStrings.cpp)
+ - ✅ [18 July - LCM Triplet   ](2025/july/18_LCMTriplet.cpp)
+ - ✅ [16 July - Nine Divisiors   ](2025/july/16_NineDivisiors.cpp)
+ - ✅ [15 July - Divisible By 13  ](2025/july/15_DivisibleBy13.cpp)
 - ✅ [14 July - Cutting Binary String   ](2025/july/14_CuttingBinaryString.cpp)
 - ✅ [11 July - Trails Of One   ](2025/july/11_TrailOfOnes.cpp)
 - ✅ [10 July - Find The  Largest String   ](2025/july/10_FindTheLargestString.cpp)
