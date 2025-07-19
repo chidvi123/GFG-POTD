@@ -1,8 +1,8 @@
-<h1 align="center">🚀 GFG-POTD Tracker</h1>
+<h1 align="center">🚀 Daily Coding Tracker</h1>
 
 <p align="center">
-  💡 Daily C++ Solutions for <strong>GeeksforGeeks Problem of the Day</strong><br/>
-  📅 Organized by year/month • 📁 Clean folder structure • 🔗 Clickable links to code
+  💡 Practicing daily problems from <strong>GeeksforGeeks</strong> and <strong>LeetCode</strong><br/>
+  📅 Organized by date • 🔗 Direct links to each C++ solution
 </p>
 
 <p align="center">
@@ -13,19 +13,18 @@
 
 ---
 
-
+## 🟩 GFG – Problem of the Day
 
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
-
-- ✅ [14 July - Cutting Binary String   ](2025/july/14_CuttingBinaryString.cpp)
-- ✅ [11 July - Trails Of One   ](2025/july/11_TrailOfOnes.cpp)
-- ✅ [10 July - Find The  Largest String   ](2025/july/10_FindTheLargestString.cpp)
-- ✅ [9 July - Sum Of Subarray Minimum  ](2025/july/9_SumOfSubarrayMinimum.cpp)
-- ✅ [8 July -  Next Element With Greater Frequency ](2025/july/8_NextElementWithGreaterFrequency.cpp)
-- ✅ [7 July - Next Greater Element In Circular Array ](2025/july/7_NextGreaterElementInCircularArray.cpp)
-- ✅ [6 July - Maximum sum combinations ](2025/july/6_MaximumSumCombination.cpp)
+- ✅ [14 July - Cutting Binary String](2025/july/14_CuttingBinaryString.cpp)
+- ✅ [11 July - Trails Of One](2025/july/11_TrailOfOnes.cpp)
+- ✅ [10 July - Find The Largest String](2025/july/10_FindTheLargestString.cpp)
+- ✅ [9 July - Sum Of Subarray Minimum](2025/july/9_SumOfSubarrayMinimum.cpp)
+- ✅ [8 July - Next Element With Greater Frequency](2025/july/8_NextElementWithGreaterFrequency.cpp)
+- ✅ [7 July - Next Greater Element In Circular Array](2025/july/7_NextGreaterElementInCircularArray.cpp)
+- ✅ [6 July - Maximum sum combinations](2025/july/6_MaximumSumCombination.cpp)
 - ✅ [5 July - Max Score With Subarray Mins](2025/july/5_MaxScoreFromSubarrayMins.cpp)
 - ✅ [4 July - Subarrays With At Most K Distinct Integers](2025/july/4_SubarraysWithAtmostKDistinctIntegers.cpp)
 - ✅ [3 July - Longest Substring With K Uniques](2025/july/3_LongestSubstringWithKUniques.cpp)
@@ -33,8 +32,6 @@
 - ✅ [1 July - Substrings of len k with k-1 distinct elements](2025/july/1_SubstringsOfLengthKwithK-1DistinctElements.cpp)
 
 </details>
-
----
 
 <details>
 <summary>📅 <strong>June 2025</strong></summary>
@@ -49,3 +46,9 @@
 </details>
 
 ---
+
+## 🟨 LeetCode – Daily/Practice (coming soon)
+
+<!-- Add LeetCode entries here like:
+- ✅ [19 July - Vowel Permutation Count](2025/july/19/LeetCode_VowelPermutationCount.cpp)
+-->
