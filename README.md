@@ -13,22 +13,20 @@
 
 ---
 
-
-
 <details open>
 <summary>📅 <strong>July 2025</strong></summary>
 
--  ✅ [19 July - Count Unique Vowel Strings   ](2025/july/19_CountUniqueVowelStrings.cpp)
- - ✅ [18 July - LCM Triplet   ](2025/july/18_LCMTriplet.cpp)
- - ✅ [16 July - Nine Divisiors   ](2025/july/16_NineDivisiors.cpp)
- - ✅ [15 July - Divisible By 13  ](2025/july/15_DivisibleBy13.cpp)
-- ✅ [14 July - Cutting Binary String   ](2025/july/14_CuttingBinaryString.cpp)
-- ✅ [11 July - Trails Of One   ](2025/july/11_TrailOfOnes.cpp)
-- ✅ [10 July - Find The  Largest String   ](2025/july/10_FindTheLargestString.cpp)
-- ✅ [9 July - Sum Of Subarray Minimum  ](2025/july/9_SumOfSubarrayMinimum.cpp)
-- ✅ [8 July -  Next Element With Greater Frequency ](2025/july/8_NextElementWithGreaterFrequency.cpp)
-- ✅ [7 July - Next Greater Element In Circular Array ](2025/july/7_NextGreaterElementInCircularArray.cpp)
-- ✅ [6 July - Maximum sum combinations ](2025/july/6_MaximumSumCombination.cpp)
+- ✅ [19 July - Count Unique Vowel Strings](2025/july/19_CountUniqueVowelStrings.cpp)
+- ✅ [18 July - LCM Triplet](2025/july/18_LCMTriplet.cpp)
+- ✅ [16 July - Nine Divisiors](2025/july/16_NineDivisiors.cpp)
+- ✅ [15 July - Divisible By 13](2025/july/15_DivisibleBy13.cpp)
+- ✅ [14 July - Cutting Binary String](2025/july/14_CuttingBinaryString.cpp)
+- ✅ [11 July - Trails Of One](2025/july/11_TrailOfOnes.cpp)
+- ✅ [10 July - Find The Largest String](2025/july/10_FindTheLargestString.cpp)
+- ✅ [9 July - Sum Of Subarray Minimum](2025/july/9_SumOfSubarrayMinimum.cpp)
+- ✅ [8 July - Next Element With Greater Frequency](2025/july/8_NextElementWithGreaterFrequency.cpp)
+- ✅ [7 July - Next Greater Element In Circular Array](2025/july/7_NextGreaterElementInCircularArray.cpp)
+- ✅ [6 July - Maximum sum combinations](2025/july/6_MaximumSumCombination.cpp)
 - ✅ [5 July - Max Score With Subarray Mins](2025/july/5_MaxScoreFromSubarrayMins.cpp)
 - ✅ [4 July - Subarrays With At Most K Distinct Integers](2025/july/4_SubarraysWithAtmostKDistinctIntegers.cpp)
 - ✅ [3 July - Longest Substring With K Uniques](2025/july/3_LongestSubstringWithKUniques.cpp)
@@ -50,5 +48,3 @@
 - ✅ [25 June - Check if Frequencies Can Be Equal](2025/June/25_CheckIfFreqEqual.cpp)
 
 </details>
-
----
